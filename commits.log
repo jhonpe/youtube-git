@@ -1,0 +1,92 @@
+commit 9a199def4991b720c081e3f590ab7f6adb1e550d
+Author: Jhon <jhon7925@gmail.com>
+Date:   Thu Aug 11 10:25:52 2022 -0400
+
+    Agregando 2 párrafos
+
+commit af07d0d63d4602357999f892b0fa2b9cdcf5acc7
+Merge: 3486faa e531b0b
+Author: Jhon <jhon7925@gmail.com>
+Date:   Thu Aug 11 10:22:24 2022 -0400
+
+    Resolviendo conflicto en estaciones del y con fechas de inicio
+
+commit 3486faa73217ef2cb2a250203f8fe34394b0597b
+Author: Jhon <jhon7925@gmail.com>
+Date:   Thu Aug 11 10:02:43 2022 -0400
+
+    Agregando estaciones del año con fecha de inicio
+
+commit e531b0b3408d890da3306bfb3e2f9fd0e63df519
+Author: Jhon <jhon7925@gmail.com>
+Date:   Thu Aug 11 10:02:43 2022 -0400
+
+    Agregando las estaciones del año
+
+commit dfd329bc86308d6aa9339a05e1a97f01e495c36f
+Merge: 011b79d 8a8fdb1
+Author: Jhon <jhon7925@gmail.com>
+Date:   Thu Aug 11 09:55:30 2022 -0400
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 8a8fdb1eecfe7ad5d3812fdddb2b7478a9ac89b9
+Author: Jhon <jhon7925@gmail.com>
+Date:   Thu Aug 11 09:46:18 2022 -0400
+
+    Agregando index.js al index.html
+
+commit 011b79dd25f534a8e5fc3f908317f4e0a87a7da3
+Author: Jhon <jhon7925@gmail.com>
+Date:   Thu Aug 11 09:42:50 2022 -0400
+
+    Agregando style.css al index.html
+
+commit a240b2afd6aac822afb41100051810ced6374f52
+Merge: d796c33 523c153
+Author: Jhon <jhon7925@gmail.com>
+Date:   Wed Aug 10 15:09:59 2022 -0400
+
+    Merge branch 'js'
+
+commit 523c1539a971b60c561be73221f8bddf58785845
+Author: Jhon <jhon7925@gmail.com>
+Date:   Wed Aug 10 14:41:56 2022 -0400
+
+    Creando index.js
+
+commit d796c338fafac3ca23ecf8efea4ab2ca338ccd60
+Author: Jhon <jhon7925@gmail.com>
+Date:   Wed Aug 10 14:34:16 2022 -0400
+
+    Creando style.css
+
+commit 54e9c3fd6ae0de9867815df9c940becba9736c14
+Author: Jhon <jhon7925@gmail.com>
+Date:   Wed Aug 10 14:26:42 2022 -0400
+
+    Creando index.html
+
+commit 5f888d1109dd1243e53179c18c1301b260e25c4d
+Author: Jhon <jhon7925@gmail.com>
+Date:   Wed Aug 10 14:03:57 2022 -0400
+
+    Ignorando archivos .exe
+
+commit 53fcc383efe140c9b37c947057bf79d12e31fc2e
+Author: Jhon Pérez <jhon7925@gmail.com>
+Date:   Wed Aug 10 13:10:25 2022 -0400
+
+    Creando licencia del repositorio
+
+commit 446cad61db151df1e89d288fd1e6282f95fb075d
+Author: Jhon <jhon7925@gmail.com>
+Date:   Wed Aug 10 13:08:42 2022 -0400
+
+    Agregando más contenido al README
+
+commit f834a4d3d607d5c834a1138d55dade5a800dfe5f
+Author: Jhon <jhon7925@gmail.com>
+Date:   Wed Aug 10 12:15:10 2022 -0400
+
+    Primer commit
